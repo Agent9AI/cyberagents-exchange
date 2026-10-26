@@ -1,5 +1,5 @@
 ---
-last_reviewed: 2026-09-28
+last_reviewed: 2026-10-26
 name: "KeenDreams Security Memory"
 author: "Agent9AI"
 github_url: "https://github.com/Agent9AI/keendreams-security"
